@@ -1,0 +1,2 @@
+# bojesasal
+Simple portfolio deydo
